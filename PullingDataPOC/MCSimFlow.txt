@@ -1,0 +1,4 @@
+Pull current + previous season data for a given driver (or all drivers)
+Get specific results for last n races (or for season)
+Run MC sim for remaining races based on specific and random distributions
+fit best distribution to results
